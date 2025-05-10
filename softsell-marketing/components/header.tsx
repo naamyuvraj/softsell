@@ -29,7 +29,7 @@ export default function Header() {
       initial={{ opacity: 0, y: -20 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5 }}
-      className={`fixed top-0 left-0 w-full z-50 transition-all duration-300 ${
+      className={`fixed top-0 left-0 w-full z-50 transition-all duration-300 pt-3 pb-3 ${
         isScrolled ? "bg-background/90 backdrop-blur-md shadow-sm" : "bg-transparent"
       }`}
     >
@@ -42,7 +42,7 @@ export default function Header() {
           </div>
 
           {/* Desktop navigation */}
-          <nav className="hidden md:flex items-center space-x-8">
+          <nav className="hidden md:flex items-center space-x-8 text-xl">
             <a href="#about" className="hover:text-[#25D366] transition-colors">
               About
             </a>

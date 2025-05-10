@@ -90,7 +90,7 @@ export default function HowItWorks() {
       <div className="container-custom">
         <div className="mb-16">
           <h2 className="section-heading">
-            <span className="heading-decoration">How it Works</span>How it Works
+            <span className="heading-decoration"></span>HOW IT WORKS
           </h2>
         </div>
 

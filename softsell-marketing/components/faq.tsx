@@ -44,7 +44,7 @@ export default function Faq() {
       <div className="container-custom">
         <div className="mb-16">
           <h2 className="section-heading">
-            <span className="heading-decoration">Frequently Asked</span>Frequently Asked Questions
+            <span className="heading-decoration"></span>FREQUENTLY ASKED QUESTIONS
           </h2>
         </div>
 

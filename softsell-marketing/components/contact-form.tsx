@@ -149,7 +149,7 @@ export default function ContactForm() {
       <div className="container-custom">
         <div className="mb-16">
           <h2 className="section-heading">
-            <span className="heading-decoration">Get In Touch mm</span>Get in Touch
+            <span className="heading-decoration">GET IN TOUCH</span>
           </h2>
         </div>
 

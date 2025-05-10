@@ -95,7 +95,7 @@ export default function WhyChooseUs() {
       <div className="container-custom">
         <div className="mb-16">
           <h2 className="section-heading">
-            <span className="heading-decoration">Why Choose</span> What is SoftSell ?
+            <span className="heading-decoration"></span> WHY SOFTSELL ?
           </h2>
         </div>
 

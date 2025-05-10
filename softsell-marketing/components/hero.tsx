@@ -48,7 +48,7 @@ export default function Hero() {
   }, []);
 
   return (
-    <section className="hero-section pt-10 pb-0" ref={heroRef}>
+    <section className="hero-section pb-0" ref={heroRef}>
       <div className="container-custom">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
@@ -98,7 +98,7 @@ export default function Hero() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 py-20">
           <div>
-            <h2 className="text-3xl font-bold mb-6 bg-gradient-to-r from-black to-[#25D366] dark:from-white dark:to-[#25D366] bg-clip-text text-transparent">
+            <h2 className="text-5xl font-bold mb-6 bg-gradient-to-r from-black to-[#25D366] dark:from-white dark:to-[#25D366] bg-clip-text text-transparent">
               Unlock the Value of Your Unused Software Licenses
             </h2>
           </div>

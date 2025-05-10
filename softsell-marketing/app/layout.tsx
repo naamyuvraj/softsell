@@ -19,11 +19,11 @@ export const metadata = {
     title: "SoftSell - Software License Resale Platform",
     description:
       "SoftSell helps businesses recover costs by reselling unused software licenses. Turn your idle digital assets into immediate cash flow.",
-    url: "https://softsell.com",
+    url: "softsell-yuvraj.vercel.app",
     siteName: "SoftSell",
     images: [
       {
-        url: "https://softsell.com/og-image.jpg",
+        url: "/public/logo.png",
         width: 1200,
         height: 630,
         alt: "SoftSell - Software License Reselling",
