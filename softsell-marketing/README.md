@@ -1,6 +1,6 @@
 # SoftSell - Software License Resale Platform
 
-A responsive, single-page marketing website for a fictional software resale startup called SoftSell.
+A responsive, single-page marketing website for a software resale startup called SoftSell.
 
 ## Features Implemented
 
@@ -11,7 +11,6 @@ A responsive, single-page marketing website for a fictional software resale star
 - **AI-Powered Chat Widget**: Interactive chat assistant with sample questions and AI-generated responses
 - **Form Validation**: Client-side validation for the contact form
 - **Smooth Scrolling**: Enhanced navigation with smooth scrolling to sections
-- **Accessibility**: Semantic HTML and proper ARIA attributes
 
 ## Sections
 
@@ -23,7 +22,7 @@ A responsive, single-page marketing website for a fictional software resale star
 6. **Footer**: Company information and navigation links
 
 ## Design Choices
-
+- **Templete and Layout selection**: Framer.com
 - **Color Palette**: Teal and blue gradient theme to convey trust, professionalism, and technology
 - **Typography**: Clean, readable font (Inter) for optimal legibility across devices
 - **Visual Hierarchy**: Clear content structure with consistent heading styles
@@ -52,18 +51,18 @@ A responsive, single-page marketing website for a fictional software resale star
 
 ## Time Spent
 
-- Planning and Research: 1 hour
-- Design and Layout: 2 hours
-- Component Development: 3 hours
+- Planning and Research: 2 hour
+- Design and Layout: 5 hours
+- Component Development: 8-9 hours
 - Responsive Testing: 1 hour
 - AI Chat Implementation: 1 hour
 - Refinement and Optimization: 1 hour
-
-Total: ~9 hours
+- Testing and Debugging: 1 hour
+Total: ~20-21 hours
 
 ## Deployment
 
-The site is deployed on Vercel and can be accessed at [softsell-demo.vercel.app](https://softsell-demo.vercel.app)
+The site is deployed on Vercel and can be accessed at [softsell-demo.vercel.app](https://softsell-yuvraj.vercel.app/)
 
 ## Future Improvements
 
@@ -73,3 +72,9 @@ The site is deployed on Vercel and can be accessed at [softsell-demo.vercel.app]
 - Expand the AI chat capabilities with more training data
 - Add internationalization support
 - Implement analytics tracking
+
+
+# Yuvraj 
+# naam.yuvraj@gmail.com
+# 9153471582
+# portfolio - (https://naamyuvraj.vercel.app/)
